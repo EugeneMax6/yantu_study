@@ -1,5 +1,5 @@
 # 综合实训 “研途”微信小程序端
-
+[Gitee](https://gitee.com/kakaxiiii/comprehensive-training-)
 #### 介绍
 综合实训 “研途”微信小程序端仓库
 
@@ -8,7 +8,7 @@
 
 #### UI组件库
 
-[iView Weapp](http://inmap.talkingdata.com/wx/index_prod.html)
+[iView Weapp](https://github.com/TalkingData/iview-weapp)
 
 #### 功能
 1. 账号密码登录/**微信账号登录**，**账号与微信绑定与解绑**😹😹😹
